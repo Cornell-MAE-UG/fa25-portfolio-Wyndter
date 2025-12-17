@@ -13,58 +13,51 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in Mechanical and Environmental Engineering. Passionate about history and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical*  
+  GPA: 3.6/4.0 | Graduation: May, 2026
 
-- **[High School Name]**  
+- **Loomis Chaffee**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [May, 2022]
 
 ---
 
 #### Skills
 - **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Programming:** Python, MATLAB, Julia, Java, Vex, Git  
+- **Tools:** 3D Printing, Laser Cutting, Bandsaw, Lathe  
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Wind Turbine Blade Design**:  
+  *Designed a CAD file of 6in long wind turbine blades to be 3D-printed and tested in a physical wind tunnel*  
+  - Achieved a max power output of 0.88W, the highest amount seen in our lab group.
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **ID Tech - Lead Instructor**  
+  [June, 2023] - [August, 2024]  
+  - As the Lead Instructor, I led a team of over 15 instructors to facilitate an engaging and academically rigorous environment for 80-100 students each week. In my classes I taught my students to use Vex Robotics, C++, Python, Unreal Engine, and Scratch Coding.  
+  - Prior to my promotion to Lead Instructor I worked as a regular instructor teaching BattleBots with Vex. 
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- [First Aid, AED, and CPR], [American Red Cross], [2023]  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of the Armenian Student Organization at Cornell
+- Former Treasurer of the Cornell Mafia Club 
 
 ---
 
