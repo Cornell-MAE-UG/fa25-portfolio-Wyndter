@@ -2,10 +2,12 @@
 
 source "https://rubygems.org"
 
-gem "kramdown-parser-gfm"
+gem "jekyll", "~> 4.3"
 
-gem "jekyll-include-cache"
+# gem "kramdown-parser-gfm"
+
 gem "jekyll-feed"
+gem "jekyll-include-cache"
 
 # gem "github-pages", group: :jekyll_plugins
-gem "jekyll", "~> 4.3"
+
