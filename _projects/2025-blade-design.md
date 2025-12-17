@@ -15,7 +15,7 @@ We created equations to model the changing chord length, pitch and twist angles 
 Testing Summary:
 During testing, we achieved an optimal operational rotation rate of 590 RPM and a maximum power extraction of 0.04W at that RPM for a free stream velocity of 5.97 m/s. At the maximum wind tunnel fan frequency of 20 Hz, our blade was able to produce 0.85W of power at a 12.2 m/s wind speed. Our design achieved a low  power extraction efficiency of 3%, likely due to the twist of our blade being oriented oppositely from the incoming wind, but the blade neither failed structurally nor exceeded the maximum operating conditions of the turbine’s torque break.
 
-<img src="/assets/images/power-curves.png">
+<img src="/fa25-portfolio-Wyndter/assets/images/power-curves.png">
 
 My Contribution:
 I worked on every part of this project with my three teammates. Primarily, I helped during the design process by finding all the possible equations we could use to optimize the chord lengths and pitch angles for power generation. I also did significant research into the optimal airfoils we could use for different possible gains, and pitched these airfoils to the rest of my group, so we could collectively decide on one method to base the equations off of. In addition, I formulated the experimental design process which we used to test the blades after they had been printed. Using these methods we achieved a power generation of 0.88W, which was higher than any other group had accomplished.
