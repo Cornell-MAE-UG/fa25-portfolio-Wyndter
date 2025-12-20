@@ -7,7 +7,7 @@ image: /assets/images/boeing-pic.jpg
 ---
 
 Project Overview:
-Over the Fall 2025 semester, we were tasked with critically analyzing the Boeing 737 Max Crash Disaster from all possible perspectives. We considered who was at fault and who was a victim, and we spent much time deliberating over which people in the vague gray area belonged in which category. Throughout this analysis process, we learned much about the
+Over the Fall 2025 semester, we were tasked with critically analyzing the Boeing 737 Max Crash Disaster from all possible perspectives. We considered who was at fault and who was a victim, and we spent much time deliberating over which people in the vague gray area belonged in which category. Throughout this analysis process, we learned much about the organizational systems of Boeing and all of their flaws.
 
 Identifying Ethical Issues:
 Overall we asked many questions to ourselves to help narrow down what sources of ethical blame we can assign to different groups of people. And we asked these questions to eventually help derive what should have happened.
